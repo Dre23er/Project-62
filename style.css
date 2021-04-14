@@ -1,0 +1,55 @@
+# heading {
+    height: 500px;
+    width: 1300px;
+}
+
+.gallery_img {
+    height: 280px;
+    width: 280px;
+}
+
+.images {
+    height: 150px;
+    width: 300px;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 200px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 50px;
+}
+
+.links {
+    float: right;
+    color: red;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+   
+}
